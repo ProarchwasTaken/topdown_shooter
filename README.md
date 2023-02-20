@@ -29,3 +29,5 @@ I also experimented with the way I do things like the file structure, giving imp
 names, adding if __name__ == '__main__'. (As if that's gonna do anything)
 
 To play this, just run init.py
+
+![alt text](https://github.com/ProarchwasTaken/topdown_shooter/blob/main/Capture.PNG)
